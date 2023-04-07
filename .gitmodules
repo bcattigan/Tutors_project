@@ -1,0 +1,9 @@
+[submodule "tutors_build"]
+	path = tutors_build
+	url = https://github.com/bcattigan/tutors_build.git
+[submodule "tutors_mon"]
+	path = tutors_mon
+	url = https://github.com/bcattigan/tutors_mon.git
+[submodule "tutors_view"]
+	path = tutors_view
+	url = https://github.com/bcattigan/tutors_view.git
